@@ -1,0 +1,299 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/PixelartPokerCards/Clubs/10clubs.png",
+                "type": "image",
+                "key": "10clubs"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Diamonds/10diamonds.png",
+                "type": "image",
+                "key": "10diamonds"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Hearts/10hearts.png",
+                "type": "image",
+                "key": "10hearts"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Spades/10spades.png",
+                "type": "image",
+                "key": "10spades"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Clubs/2clubs.png",
+                "type": "image",
+                "key": "2clubs"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Diamonds/2diamonds.png",
+                "type": "image",
+                "key": "2diamonds"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Hearts/2hearts.png",
+                "type": "image",
+                "key": "2hearts"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Spades/2spades.png",
+                "type": "image",
+                "key": "2spades"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Clubs/3clubs.png",
+                "type": "image",
+                "key": "3clubs"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Diamonds/3diamonds.png",
+                "type": "image",
+                "key": "3diamonds"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Hearts/3hearts.png",
+                "type": "image",
+                "key": "3hearts"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Spades/3spades.png",
+                "type": "image",
+                "key": "3spades"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Clubs/4clubs.png",
+                "type": "image",
+                "key": "4clubs"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Diamonds/4diamonds.png",
+                "type": "image",
+                "key": "4diamonds"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Hearts/4hearts.png",
+                "type": "image",
+                "key": "4hearts"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Spades/4spades.png",
+                "type": "image",
+                "key": "4spades"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Clubs/5clubs.png",
+                "type": "image",
+                "key": "5clubs"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Diamonds/5diamonds.png",
+                "type": "image",
+                "key": "5diamonds"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Hearts/5hearts.png",
+                "type": "image",
+                "key": "5hearts"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Spades/5spades.png",
+                "type": "image",
+                "key": "5spades"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Clubs/6clubs.png",
+                "type": "image",
+                "key": "6clubs"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Diamonds/6diamonds.png",
+                "type": "image",
+                "key": "6diamonds"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Hearts/6hearts.png",
+                "type": "image",
+                "key": "6hearts"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Spades/6spades.png",
+                "type": "image",
+                "key": "6spades"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Clubs/7clubs.png",
+                "type": "image",
+                "key": "7clubs"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Diamonds/7diamonds.png",
+                "type": "image",
+                "key": "7diamonds"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Hearts/7hearts.png",
+                "type": "image",
+                "key": "7hearts"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Spades/7spades.png",
+                "type": "image",
+                "key": "7spades"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Clubs/8clubs.png",
+                "type": "image",
+                "key": "8clubs"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Diamonds/8diamonds.png",
+                "type": "image",
+                "key": "8diamonds"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Hearts/8hearts.png",
+                "type": "image",
+                "key": "8hearts"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Spades/8spades.png",
+                "type": "image",
+                "key": "8spades"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Clubs/9clubs.png",
+                "type": "image",
+                "key": "9clubs"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Diamonds/9diamonds.png",
+                "type": "image",
+                "key": "9diamonds"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Hearts/9hearts.png",
+                "type": "image",
+                "key": "9hearts"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Spades/9spades.png",
+                "type": "image",
+                "key": "9spades"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Clubs/Aclubs.png",
+                "type": "image",
+                "key": "Aclubs"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Diamonds/Adiamonds.png",
+                "type": "image",
+                "key": "Adiamonds"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Hearts/Ahearts.png",
+                "type": "image",
+                "key": "Ahearts"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Spades/Aspades.png",
+                "type": "image",
+                "key": "Aspades"
+            },
+            {
+                "url": "assets/PixelartPokerCards/backs/back_blue.png",
+                "type": "image",
+                "key": "back_blue"
+            },
+            {
+                "url": "assets/PixelartPokerCards/backs/back_green.png",
+                "type": "image",
+                "key": "back_green"
+            },
+            {
+                "url": "assets/PixelartPokerCards/backs/back_purple.png",
+                "type": "image",
+                "key": "back_purple"
+            },
+            {
+                "url": "assets/PixelartPokerCards/backs/back_red.png",
+                "type": "image",
+                "key": "back_red"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Clubs/Jclubs.png",
+                "type": "image",
+                "key": "Jclubs"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Diamonds/Jdiamonds.png",
+                "type": "image",
+                "key": "Jdiamonds"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Hearts/Jhearts.png",
+                "type": "image",
+                "key": "Jhearts"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Spades/Jspades.png",
+                "type": "image",
+                "key": "Jspades"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Clubs/Kclubs.png",
+                "type": "image",
+                "key": "Kclubs"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Diamonds/Kdiamonds.png",
+                "type": "image",
+                "key": "Kdiamonds"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Hearts/Khearts.png",
+                "type": "image",
+                "key": "Khearts"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Spades/Kspades.png",
+                "type": "image",
+                "key": "Kspades"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Clubs/Qclubs.png",
+                "type": "image",
+                "key": "Qclubs"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Diamonds/Qdiamonds.png",
+                "type": "image",
+                "key": "Qdiamonds"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Hearts/Qhearts.png",
+                "type": "image",
+                "key": "Qhearts"
+            },
+            {
+                "url": "assets/PixelartPokerCards/Spades/Qspades.png",
+                "type": "image",
+                "key": "Qspades"
+            },
+            {
+                "url": "assets/table.png",
+                "type": "image",
+                "key": "table"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false,
+        "visible": true
+    }
+}
