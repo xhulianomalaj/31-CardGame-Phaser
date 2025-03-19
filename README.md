@@ -1,5 +1,3 @@
-Here's the README file without the Future Enhancements and Credits sections:
-
 # 31 Card Game
 
 A web-based version of the classic 31 card game, built using Phaser.js. Features smooth animations, interactive gameplay, and an intuitive interface for an engaging card game experience.
