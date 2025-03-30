@@ -1,0 +1,26 @@
+{
+  "name": "31-cardgame-phaser",
+  "version": "1.0.0",
+  "description": "A card game built with Phaser 3",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "phaser",
+    "game",
+    "card-game"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.60.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+} 

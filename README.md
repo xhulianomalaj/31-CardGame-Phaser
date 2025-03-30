@@ -15,6 +15,17 @@ Thirty-One is a card game where players aim to collect cards of the same suit wi
 - Smooth animations and transitions
 - Strategic AI opponent
 
+## Screenshots
+
+![Game Title Screen](assets/startscreen.png)
+_The game's title screen with Start Game button_
+
+![Gameplay Screenshot](assets/gameoppening.png)
+_Active gameplay showing cards, controls, and point totals_
+
+![Game Over Screen](assets/outcome.png)
+_One of the outcomes of the game!_
+
 ## Game Rules
 
 - **Objective**: Get 31 points in one suit or get more points than your opponent when someone knocks
@@ -54,6 +65,7 @@ Thirty-One is a card game where players aim to collect cards of the same suit wi
 ## Project Structure
 
 The game is organized into modular components:
+
 - Game orchestration
 - Deck management
 - Discard pile handling
